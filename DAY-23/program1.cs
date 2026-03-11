@@ -1,4 +1,4 @@
-// Program to demonstrate multithreading 
+// Program to demonstrate multithreading
 using System;
 using System.Threading;
 
